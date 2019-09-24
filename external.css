@@ -1,0 +1,16 @@
+body {background-color: powderblue;}
+p1{
+	color: blue;
+	font-size:14px;
+}
+p2{
+	color: red;
+	font-size:16px;
+}
+hr{
+	color: blue;
+}
+a{
+	color: black;
+	font-style: Arial;
+}
